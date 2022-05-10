@@ -4,6 +4,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplicationProject", "Jo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobApplicationProject.UnitTest", "JobApplicationProject.UnitTest\JobApplicationProject.UnitTest.csproj", "{B8CCE3F8-2DD4-4264-8737-12F6CE4A5407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProject", "PaymentProject\PaymentProject.csproj", "{0B1530EB-8723-4CA4-BB0D-3595681D4D97}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PaymentProject.UnitTest", "PaymentProject.UnitTest\PaymentProject.UnitTest.csproj", "{A075A274-523A-4E52-A2C9-25C553B99318}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +22,13 @@ Global
 		{B8CCE3F8-2DD4-4264-8737-12F6CE4A5407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8CCE3F8-2DD4-4264-8737-12F6CE4A5407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8CCE3F8-2DD4-4264-8737-12F6CE4A5407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B1530EB-8723-4CA4-BB0D-3595681D4D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B1530EB-8723-4CA4-BB0D-3595681D4D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B1530EB-8723-4CA4-BB0D-3595681D4D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B1530EB-8723-4CA4-BB0D-3595681D4D97}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A075A274-523A-4E52-A2C9-25C553B99318}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A075A274-523A-4E52-A2C9-25C553B99318}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A075A274-523A-4E52-A2C9-25C553B99318}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A075A274-523A-4E52-A2C9-25C553B99318}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
